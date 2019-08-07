@@ -1,0 +1,1 @@
+00 * * * * /bin/bash /home/ethos/rig_restarter.sh 2>/dev/null
